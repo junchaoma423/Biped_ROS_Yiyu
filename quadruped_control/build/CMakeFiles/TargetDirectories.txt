@@ -1,0 +1,15 @@
+/home/junchao/Biped_Control_Yiyu_framework/build/CMakeFiles/install/strip.dir
+/home/junchao/Biped_Control_Yiyu_framework/build/CMakeFiles/install.dir
+/home/junchao/Biped_Control_Yiyu_framework/build/CMakeFiles/list_install_components.dir
+/home/junchao/Biped_Control_Yiyu_framework/build/CMakeFiles/rebuild_cache.dir
+/home/junchao/Biped_Control_Yiyu_framework/build/CMakeFiles/edit_cache.dir
+/home/junchao/Biped_Control_Yiyu_framework/build/CMakeFiles/quad_ctrl.dir
+/home/junchao/Biped_Control_Yiyu_framework/build/CMakeFiles/install/local.dir
+/home/junchao/Biped_Control_Yiyu_framework/build/CMakeFiles/src.dir
+/home/junchao/Biped_Control_Yiyu_framework/build/third_party/qpOASES/CMakeFiles/install/strip.dir
+/home/junchao/Biped_Control_Yiyu_framework/build/third_party/qpOASES/CMakeFiles/install/local.dir
+/home/junchao/Biped_Control_Yiyu_framework/build/third_party/qpOASES/CMakeFiles/install.dir
+/home/junchao/Biped_Control_Yiyu_framework/build/third_party/qpOASES/CMakeFiles/list_install_components.dir
+/home/junchao/Biped_Control_Yiyu_framework/build/third_party/qpOASES/CMakeFiles/rebuild_cache.dir
+/home/junchao/Biped_Control_Yiyu_framework/build/third_party/qpOASES/CMakeFiles/edit_cache.dir
+/home/junchao/Biped_Control_Yiyu_framework/build/third_party/qpOASES/CMakeFiles/qpOASES.dir
